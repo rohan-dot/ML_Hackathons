@@ -24,7 +24,7 @@ removed outliers (morethan 3 passengers not possible and taxi riding beyond the 
 Ways to improve 
 extract date time from the key column
 
-#Analytics Vidhya
+# Analytics Vidhya
 Took part in a weekend machine learning hackathon conducted by IIT-BHU Enigma. By using model stacking/ ensembling finished 70 out of 904 registered participants.
 Due to time constraint and less computational power parameters for xgboost and lightgbm were not optimized.
 Also more time could have been spent on data-visualization
