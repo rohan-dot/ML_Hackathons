@@ -31,3 +31,7 @@ Also more time could have been spent on data-visualization
 PVT leaderboard -:https://datahack.analyticsvidhya.com/contest/enigma-codefest-machine-learning/pvt_lb
 username -: rohan7797
 
+Using Random Forest and feature engineering I managed to get a rank of 243 out of 3500+ registered participants in Genpact 48hr Hackathon
+Homepage -: https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/
+Username -: rohan7797
+
