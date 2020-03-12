@@ -35,3 +35,8 @@ Using Random Forest and feature engineering I managed to get a rank of 243 out o
 Homepage -: https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/
 Username -: rohan7797
 
+# Machine Hack
+https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/leaderboard
+Ranked 70th out of 2500+ users
+Predict the flight ticket cost using NLP and Predictive Analytics
+
