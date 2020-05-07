@@ -40,3 +40,9 @@ https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/lea
 Ranked 70th out of 2500+ users
 Predict the flight ticket cost using NLP and Predictive Analytics
 
+Churn Prediction Hackathon
+Was not able to participate as I submitted my solution after the time limit. But results on test data show a significant better result over existing participants.
+
+Message Polarity Predicition
+Finished 75 out of 300 participants. Main focus was on feature engineering and model stacking.
+
