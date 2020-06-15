@@ -46,3 +46,8 @@ Was not able to participate as I submitted my solution after the time limit. But
 Message Polarity Predicition
 Finished 75 out of 300 participants. Main focus was on feature engineering and model stacking.
 
+Weekly hackathon no 8
+https://www.machinehack.com/course/e-commerce-price-prediction-weekend-hackathon-8/leaderboard
+Finished 20th out of 445 users.
+used tf-idf and hand made feature engineering
+
